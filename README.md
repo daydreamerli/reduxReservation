@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+run npx create-react-app myapp --template typescript
+
+This is a simple React app using Redux and typescript.
+
+Using Redux toolkit is the main purpose for this project.
+
 ## Available Scripts
 
 In the project directory, you can run:
